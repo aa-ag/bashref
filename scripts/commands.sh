@@ -1,1 +1,1 @@
-bash
+man bash
