@@ -1,1 +1,1 @@
-echo 1 to 10 is {1..10}
+echo 1 to 10 with zeros is {01..10}
