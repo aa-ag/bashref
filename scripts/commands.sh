@@ -1,1 +1,1 @@
-echo {1,2,3}this_is_a_test 
+echo 1 to 10 is {1..10}
