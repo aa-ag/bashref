@@ -1,1 +1,1 @@
-echo "Well, isn't that \"special\"?"
+echo "Code: `ls` files in `pwd`"
