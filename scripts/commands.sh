@@ -1,1 +1,1 @@
-cd scripts; ls; echo "hellow from `pwd`"
+(date; who; pwd) > logfile
