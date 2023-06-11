@@ -1,1 +1,1 @@
-echo 1 to 10 with zeros is {01..10}
+echo 'Single quotes "protect" double quotes'
