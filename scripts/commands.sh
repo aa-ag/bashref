@@ -1,1 +1,1 @@
-nroff file > file.txt &
+cd scripts; ls; echo "hellow from `pwd`"
