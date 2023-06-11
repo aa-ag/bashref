@@ -1,1 +1,1 @@
-(date; who; pwd) > logfile
+grep ttys000 logfile || echo "\"ttys000\" not found"
