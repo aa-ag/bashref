@@ -1,1 +1,1 @@
-echo $"A\tB"
+nroff file > file.txt &
