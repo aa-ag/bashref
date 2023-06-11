@@ -1,1 +1,1 @@
-echo "Code: `ls | wc -l` files in `pwd`"
+echo $"A\tB"
