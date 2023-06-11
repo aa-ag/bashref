@@ -1,1 +1,1 @@
-echo 'Single quotes "protect" double quotes'
+echo "Well, isn't that \"special\"?"
