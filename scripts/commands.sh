@@ -1,1 +1,1 @@
-echo "Usage error: see administrator" 1>&2
+diff -u <(sort logfile) <(sort logfile2) | less
