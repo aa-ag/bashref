@@ -1,1 +1,1 @@
-grep ttys000 logfile || echo "\"ttys000\" not found"
+echo "Usage error: see administrator" 1>&2
