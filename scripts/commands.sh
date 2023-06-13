@@ -1,1 +1,1 @@
-diff -u <(sort logfile) <(sort logfile2) | less
+i=5+3 ; echo $i 
