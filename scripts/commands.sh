@@ -1,1 +1,1 @@
-i=5+3 ; echo $i 
+declare -i jj ; jj=5+3 ; echo $jj
