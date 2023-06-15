@@ -1,2 +1,2 @@
-name=Matias ;
-name+=" Aguerrevere" ; echo $name
+pets=(Midnight Angus)
+echo ${pets[*]}
