@@ -1,3 +1,3 @@
-pets=(Midnight Angus)
-pets+=(Bella Bear)
-echo ${pets[*]}
+u=up d=down l=left r=right
+
+echo ${u} ▲ ${d} ▼ ${l} ◀ ${r} ▶
