@@ -1,1 +1,2 @@
-declare -i jj ; jj=5+3 ; echo $jj
+name=Matias ;
+name+=" Aguerrevere" ; echo $name
