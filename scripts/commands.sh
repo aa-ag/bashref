@@ -1,3 +1,4 @@
 # u=up d=down l=left r=right
 # echo ${u} ▲ ${d} ▼ ${l} ◀ ${r} ▶
-echo ${tmp-`date`}
+word=supercalifragilisticexpialidocious
+echo ${word^[r-t]}
