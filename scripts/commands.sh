@@ -1,4 +1,2 @@
-# u=up d=down l=left r=right
-# echo ${u} ▲ ${d} ▼ ${l} ◀ ${r} ▶
-word=supercalifragilisticexpialidocious
-echo ${word^^[r-t]}
+array=(a b c)
+echo ${array[0]}; echo ${array[1]}; echo ${array[2]}
