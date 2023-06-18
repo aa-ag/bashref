@@ -1,2 +1,2 @@
 array=(a b c)
-echo ${array[*]}
+echo ${array[@]}
