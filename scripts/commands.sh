@@ -1,2 +1,4 @@
-data=([joe]=30 [mary]=25)
-echo ${data[joe]}
+if who | grep $1 > /dev/null
+then :
+else echo "\n\nUser $1 not logged in.\n\n"
+fi
