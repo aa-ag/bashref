@@ -1,6 +1,8 @@
 #!/bin/sh
-countfiles () {
-    ls | wc -l
-}
+i=0
 
-countfiles
+while [ $i -le 100 ]
+do
+  echo $i
+  ((i++))
+done
